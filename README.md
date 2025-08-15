@@ -26,3 +26,6 @@ I wanted to have a similar inventory like storage to mimic the first artifact bu
 These skills used to create this application along with my full stack display understanding and growth within the field of developing for future clients in mind. I look forward to working with any future team to create the perfect system with user-friendly elements for all clients.
 
 Thank you so much for your time and have a wonderful day! 
+
+Below is a link to a code review from the beginning of the creation.
+https://youtu.be/sYz9Cje5bC8
